@@ -16,4 +16,3 @@ A simple cross platform (iOS and Android) React Timer-Watch app.
 
 ---
 
-This project was put together to serve as an example to help you in building your own React Native apps. Feel free to download it and tinker with it!
