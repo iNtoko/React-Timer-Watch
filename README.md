@@ -2,8 +2,11 @@
 
 A simple cross platform (iOS and Android) React Timer-Watch app.
 
-![Demo Select](./assets/select.png)
-![Demo Count](./assets/countdown.png)
+![select](https://github.com/iNtoko/React-Timer-Watch/assets/122923725/4c2feb4f-c971-40eb-9085-9836c7846847)
+
+![countdown](https://github.com/iNtoko/React-Timer-Watch/assets/122923725/9c00953d-82f5-482f-aba2-9f2e423ce925)
+
+
 
 ### Installation
 
